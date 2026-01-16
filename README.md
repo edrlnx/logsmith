@@ -15,6 +15,3 @@ source .venv/bin/activate
 pip install -e ".[dev]"
 
 ```
-
-## Credits
-Project made by: Edrin Holloway
